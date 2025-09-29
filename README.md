@@ -1,8 +1,8 @@
-# 📊 Revenue Multimodal RAG System
+# 📊 Revenue Multimodal System
 
 ## 📁 Project Overview
 
-This project demonstrates a **Retrieval-Augmented Generation (RAG)** system designed to analyze and respond to queries about **revenue data** using both **structured (tabular)** and **unstructured (text/image)** data. It was built as part of a data science and AI bootcamp assignment and serves as a portfolio-ready project showcasing skills in multimodal AI, natural language processing (NLP), and data analytics.
+This project demonstrates a system designed to analyze and respond to queries about **revenue data** using both **structured (tabular)** and **unstructured (text/image)** data. It was built as part of a data science and AI bootcamp assignment and serves as a portfolio-ready project showcasing skills in multimodal AI, natural language processing (NLP), and data analytics.
 
 ## 🎯 Objective
 
